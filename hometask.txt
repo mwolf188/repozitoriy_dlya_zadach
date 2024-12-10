@@ -1,1 +1,6 @@
 1. Содержимое файлов одинаково
+2. 4 коммита:
+  1) 29.06.2016 - heat added
+  2) 10.12.2024 - Merge remote-tracking branch 'origin/hat'
+  3) 10.12.2024 - Merge remote-tracking branch 'origin/boots_buttons'
+  4) 10.12.2024 - hometask
